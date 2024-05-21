@@ -1,0 +1,13 @@
+{
+    "name": "aleksandr-ignatov/site-test",
+    "description": "App for test sitemap generator",
+    "require": {
+        "php": ">=8.1",
+        "aleksandr-ignatov/sitemap-generator": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
